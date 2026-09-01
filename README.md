@@ -1,8 +1,5 @@
-# OmidTravel - Fresh Tourism Site
-Mobile-first RTL Arabic tourism landing page focused only on Gilan, Kelardasht and Shiraz.
-Click a destination card to open its travel programs and WhatsApp contact.
+OmidTravel - fresh mobile-first tourism site
+Focus: Gilan, Kelardasht, Shiraz
+Programs: 5 and 8 days
 WhatsApp: +98 939 716 2609
-Instagram: @omidtravel.iran
-
-GitHub Pages:
-Upload index.html, .nojekyll and assets/ to the repository root.
+Upload index.html, .nojekyll and assets/ to the repository root for GitHub Pages.
